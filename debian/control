@@ -1,0 +1,12 @@
+Source: ros-hydro-pr2-make-a-map-app
+Section: misc
+Priority: extra
+Maintainer: Devon Ash <dash@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-catkin, ros-hydro-gmapping, ros-hydro-map-store, ros-hydro-pr2-position-scripts, ros-hydro-tf, ros-hydro-topic-tools
+Homepage: http://ros.org/wiki/make_a_map
+Standards-Version: 3.9.2
+
+Package: ros-hydro-pr2-make-a-map-app
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-gmapping, ros-hydro-map-store, ros-hydro-pr2-position-scripts, ros-hydro-tf, ros-hydro-topic-tools
+Description: Make maps using the PR2 robot.

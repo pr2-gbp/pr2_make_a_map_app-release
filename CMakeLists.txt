@@ -4,7 +4,7 @@ find_package(catkin REQUIRED COMPONENTS pr2_position_scripts gmapping tf topic_t
 
 catkin_package(
     DEPENDS 
-    CATKIN_DEPENDS pr2_position_scripts gmapping tf topics_tools_map_store# TODO
+    CATKIN_DEPENDS pr2_position_scripts gmapping tf topic_tools map_store# TODO
     INCLUDE_DIRS # TODO include
     LIBRARIES # TODO
 )

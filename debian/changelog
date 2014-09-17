@@ -1,0 +1,18 @@
+ros-hydro-pr2-make-a-map-app (1.0.3-0precise) precise; urgency=high
+
+  * Changed topics to topic; bug fix
+  * Fixed cmake bug
+  * Contributors: TheDash
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Wed, 17 Sep 2014 04:00:00 -0000
+
+ros-hydro-pr2-make-a-map-app (1.0.2-0precise) precise; urgency=high
+
+  * Updated install targets in CMakeList
+  * Removed ROSNOBUILD
+  * Changelogs and removed stack.xml
+  * Contributors: TheDash
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Tue, 16 Sep 2014 04:00:00 -0000
+
+

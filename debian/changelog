@@ -1,0 +1,24 @@
+ros-indigo-pr2-make-a-map-app (1.0.4-0saucy) saucy; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Tue, 10 Feb 2015 06:00:00 -0000
+
+ros-indigo-pr2-make-a-map-app (1.0.3-0saucy) saucy; urgency=high
+
+  * Changed topics to topic; bug fix
+  * Fixed cmake bug
+  * Contributors: TheDash
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Wed, 17 Sep 2014 05:00:00 -0000
+
+ros-indigo-pr2-make-a-map-app (1.0.2-0saucy) saucy; urgency=high
+
+  * Updated install targets in CMakeList
+  * Removed ROSNOBUILD
+  * Changelogs and removed stack.xml
+  * Contributors: TheDash
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Tue, 16 Sep 2014 05:00:00 -0000
+
+

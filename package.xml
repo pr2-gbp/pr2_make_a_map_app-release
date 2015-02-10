@@ -1,6 +1,6 @@
 <package>
   <name>pr2_make_a_map_app</name>
-  <version>1.0.3</version>
+  <version>1.0.4</version>
   <description>Make maps using the PR2 robot.</description>
   <maintainer email="dash@clearpathrobotics.com">Devon Ash</maintainer>
 
